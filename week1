@@ -1,0 +1,6 @@
+def add(a,b):
+  sum=a+b;
+  return sum;
+n1=45;
+n2=23;
+print('sum=',add(n1,n2))
